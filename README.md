@@ -15,5 +15,5 @@
   ----
    ## Contributions 
    ---
-   - this project is pretty popular for Udacity DAND students i will be surprised if anyone cared to contribute but i welcome contributions anyways .. just send me a message
+   - this project is pretty popular for Udacity DAND students i will be surprised if anyone cared to contribute but i welcome contributions anyways .. just send me a message on Twitter
    ----
